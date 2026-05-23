@@ -30,4 +30,5 @@ An AI-based attendance management system that automates student attendance using
 
 ## Author
 Pranjul Singhal
+
 Arnav Yadav
